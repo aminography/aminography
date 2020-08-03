@@ -1,4 +1,4 @@
-### Hi there 👋
+Currently android app/lib development using Kotlin is my favorite job.
 
 <!--
 **aminography/aminography** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
