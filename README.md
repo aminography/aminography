@@ -1,4 +1,4 @@
-I’m an android developer with more than 8 years of experience in developing android apps/libs. In my spare time, I'd like to work on new open-source libraries or answer some questions on StackOverflow. 
+I’m an android developer with more than 8 years of experience in developing android apps/libs. In my spare time, I'd like to work on new open-source libraries or answer some questions on [StackOverflow](https://stackoverflow.com/users/1631967/aminography). 
 
 Programming is really a big part of my life and by such contributions, it makes me feel it's just not for living and making money, indeed it's my interest.
 
