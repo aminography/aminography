@@ -2,6 +2,9 @@ I’m an android developer with more than 8 years of experience in developing an
 
 Programming is really a big part of my life and such contributions make me feel it's just not for living and making money, indeed it's my interest.
 
+| ![Amin's github stats](https://github-readme-stats.vercel.app/api?username=aminography&show_icons=true&theme=dracula) | ![Amin's github stats](https://github-readme-stats.vercel.app/api?username=aminography&show_icons=true&theme=dracula) |
+| --- | --- | 
+
 <!--
 **aminography/aminography** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
