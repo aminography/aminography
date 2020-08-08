@@ -2,7 +2,7 @@ I’m an android developer with more than 8 years of experience in developing an
 
 Programming is really a big part of my life and such contributions make me feel it's just not for living and making money, indeed it's my interest.
 
-| ![Amin's github stats](https://github-readme-stats.vercel.app/api?username=aminography&show_icons=true&theme=dracula&hide_title=true) | ![Amin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aminography&layout=compact&theme=dracula&title_color=FFFFFF) |
+| ![Amin's github stats](https://github-readme-stats.vercel.app/api?username=aminography&show_icons=true&theme=dracula&title_color=4caf50&icon_color=ffb74d&hide_title=true) | ![Amin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aminography&layout=compact&theme=dracula&title_color=FFFFFF) |
 | --- | --- | 
 
 <!--
